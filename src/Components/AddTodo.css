@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.form-control{
+    height: 30px;
+    margin-right: 10px;
+}
